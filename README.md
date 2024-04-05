@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🌱 I’m currently learning the CS core courses at HKUST :-)
+-  📫 reach me at: mitoxbridge@gmail.com
+
+-  About my user name:
+  It's Leon+ha, and replace o by u--- as "u" seems happier
+  or l+eunha, which is one of group member under gfriend I like qwq
 
 <!--
 **leunha/leunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
